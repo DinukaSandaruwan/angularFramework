@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9B502FD0-7C84-4677-9FD9-B5E734D5E720}|" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.xBit.Framework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Framework PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>../../../Downloads/building-spa-framework-angularjs/4-exercise-files/05-MultiLayers/after/Framework/Framework/Framework.csproj</String>
+  </DisabledProjects>
+</Properties>

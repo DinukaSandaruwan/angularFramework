@@ -1,0 +1,67 @@
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/csc.exe
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/csc.exe.config
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/csc.rsp
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/csi.exe
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/csi.rsp
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.CSharp.Core.targets
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/Microsoft.VisualBasic.Core.targets
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/System.AppContext.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/System.Collections.Immutable.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/System.Diagnostics.StackTrace.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/System.IO.FileSystem.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/System.IO.FileSystem.Primitives.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/System.Reflection.Metadata.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/vbc.exe
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/vbc.exe.config
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/vbc.rsp
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/VBCSCompiler.exe
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/roslyn/VBCSCompiler.exe.config
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/xBit.Framework.dll.config
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/xBit.Framework.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/xBit.Framework.pdb
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/obj/Debug/xBit.Framework.csprojResolveAssemblyReference.cache
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/obj/Debug/xBit.Framework.dll
+c:/users/home/documents/visual studio 2017/Projects/Framework/xBit.Framework/obj/Debug/xBit.Framework.pdb
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/csc.exe
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/csc.exe.config
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/csc.rsp
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/csi.exe
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/csi.rsp
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/System.AppContext.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/System.Collections.Immutable.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/System.IO.FileSystem.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/System.Reflection.Metadata.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/vbc.exe
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/vbc.exe.config
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/vbc.rsp
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/VBCSCompiler.exe
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/roslyn/VBCSCompiler.exe.config
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/xBit.Framework.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/xBit.Framework.pdb
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/obj/Debug/xBit.Framework.csproj.CoreCompileInputs.cache
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/obj/Debug/xBit.Framework.dll
+/Users/dinukasandaruwan/Documents/Development/Framework/xBit.Framework/obj/Debug/xBit.Framework.pdb
